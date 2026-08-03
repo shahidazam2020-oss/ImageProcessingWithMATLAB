@@ -1,0 +1,10 @@
+img=imread('apricots-2444808_1920.jpg');
+bw=im2bw(img);
+custom_SE=[10101;01111;11111;01110;10101];
+se = strel('arbitrary', custom_SE);
+dilated = imdilate(bw, se);
+eroded = imerode(bw, se);
+subplot(2,2,1), imshow(bw), title('Original Binary Image');
+subplot(2,2,2), imshow(dilated), title('Dilated with Custom SE');
+subplot(2,2,3), imshow(eroded), title('Eroded with Custom SE');
+subplot(2,2,4), imshow(custom_SE, 'InitialMagnification', 'fit'), title('Custom Structuring Element');
