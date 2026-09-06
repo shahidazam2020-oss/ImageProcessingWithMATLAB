@@ -220,24 +220,24 @@ git clone YOUR_GITHUB_REPOSITORY_URL
 ---
 
 ```
-Step 3: Open MATLAB
+### Step 3: Open MATLAB
 
 Open the cloned repository folder in MATLAB.
 
-Step 4: Select a Program
+### Step 4: Select a Program
 
 Choose any .m file from the repository.
 
 For example:
 
 HarrisDetector.m
-Step 5: Run the Program
+### Step 5: Run the Program
 
 Open the file in MATLAB and click Run.
 
 Some programs may require an input image. Make sure the required image file is available in the MATLAB working directory.
 
-📊 Areas of Application
+# 📊 Areas of Application
 
 The techniques implemented in this repository can be applied in areas such as:
 
@@ -252,9 +252,9 @@ The techniques implemented in this repository can be applied in areas such as:
 • Industrial Inspection
 • Artificial Intelligence
 
-```
+---
 
-📁 Repository Structure
+# 📁 Repository Structure
 Digital-Image-Processing/
 │
 ├── AdjustBrightnessAndContrast.m
