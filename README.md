@@ -216,3 +216,137 @@ Install MATLAB with the **Image Processing Toolbox**.
 
 ```bash
 git clone YOUR_GITHUB_REPOSITORY_URL
+
+---
+Step 3: Open MATLAB
+
+Open the cloned repository folder in MATLAB.
+
+Step 4: Select a Program
+
+Choose any .m file from the repository.
+
+For example:
+
+HarrisDetector.m
+Step 5: Run the Program
+
+Open the file in MATLAB and click Run.
+
+Some programs may require an input image. Make sure the required image file is available in the MATLAB working directory.
+
+📊 Areas of Application
+
+The techniques implemented in this repository can be applied in areas such as:
+
+• Computer Vision
+• Medical Image Processing
+• Object Detection
+• Pattern Recognition
+• Image Classification
+• Remote Sensing
+• Surveillance Systems
+• Document Processing
+• Industrial Inspection
+• Artificial Intelligence
+
+```
+
+📁 Repository Structure
+Digital-Image-Processing/
+│
+├── AdjustBrightnessAndContrast.m
+├── AnalyzingCompressionEffects.m
+├── Binary&Gray.Image.m
+├── BinaryGray_image.m
+├── BrightANDContrast.m
+├── BrightnessContrast.m
+│
+├── ColorBaseSegmentation.m
+├── ColorChannelSegmentation.m
+├── ColorImageEqualization.m
+│
+├── ComparingFileSizes.m
+├── ComparingFileSizes2.m
+├── CompressionRatioCalculation.m
+│
+├── DilationAndErosion.m
+├── EdgeDetectionCanny.m
+├── EdgeDetectionCannySobel.m
+│
+├── FAdaptiveThreshold.m
+├── FExtractingSIFTFeatures.m
+├── FHistogramOFChannel.m
+├── FImageCompressionPCA.m
+├── FLaplacian.m
+├── FMorphological.m
+├── FMorphologicalPractice.m
+├── FROI.m
+├── FROISimple.m
+├── FResizeImage.m
+├── FSobelEDGE.m
+├── FThreshold.m
+│
+├── FourierTransformAndInverseTransform.m
+├── FrequencyDomainFiltering.m
+├── HarrisDetector.m
+├── HistogramEq2.m
+├── HistogramEqualization.m
+├── ResizedIMAG.m
+├── FinalRGB.m
+│
+├── Converted_img.jpg
+├── Fig0630(01)(strawberries_fullcolor).tif
+└── Final Term Paper.docx
+📌 Note
+
+These programs were developed primarily for academic and educational purposes. They demonstrate individual Digital Image Processing concepts through practical MATLAB implementations.
+
+The code can be further improved, optimized, and combined to develop larger Computer Vision and Image Processing applications.
+
+🚀 Future Improvements
+
+Possible future improvements include:
+
+• Adding detailed comments to every MATLAB program
+• Adding sample input and output images
+• Improving code organization
+• Adding result comparisons between algorithms
+• Adding performance evaluation
+• Developing a MATLAB GUI for selected techniques
+• Integrating image processing with Machine Learning
+• Integrating image processing with Deep Learning
+
+📖 Course
+
+Digital Image Processing
+
+Practical implementation using MATLAB.
+
+⭐ Repository
+
+If you find this repository useful for learning Digital Image Processing, consider giving it a star.
+
+📬 Contact
+
+Shahid Azam
+
+MS Computer Science
+Institute of Management Sciences, Peshawar
+
+GitHub: YOUR_GITHUB_USERNAME
+
+LinkedIn: YOUR_LINKEDIN_PROFILE
+
+
+### One important improvement
+
+For a professional GitHub repository, I recommend naming the repository something like:
+
+**`Digital-Image-Processing-MATLAB`**
+
+And using this short description under the repository name:
+
+> **A collection of MATLAB implementations covering fundamental Digital Image Processing techniques, including image enhancement, segmentation, filtering, edge detection, morphology, compression, feature extraction, and frequency domain processing.**
+
+You can also add **MATLAB, Digital Image Processing, Computer Vision, Image Pr
