@@ -406,7 +406,7 @@ These programs were developed primarily for academic and educational purposes. T
 
 The code can be further improved, optimized, and combined to develop larger Computer Vision and Image Processing applications.
 
-🚀 Future Improvements
+# 🚀 Future Improvements
 
 Possible future improvements include:
 
@@ -419,36 +419,33 @@ Possible future improvements include:
 • Integrating image processing with Machine Learning
 • Integrating image processing with Deep Learning
 
-📖 Course
+# 📖 Course
 
 Digital Image Processing
 
 Practical implementation using MATLAB.
 
-⭐ Repository
+# ⭐ Repository
 
 If you find this repository useful for learning Digital Image Processing, consider giving it a star.
 
-📬 Contact
+---
 
-Shahid Azam
+# 📬 Contact
 
-MS Computer Science
-Institute of Management Sciences, Peshawar
+### Shahid Azam
 
-GitHub: YOUR_GITHUB_USERNAME
+### MS Computer Science
+### Institute of Management Sciences, Peshawar
 
-LinkedIn: YOUR_LINKEDIN_PROFILE
+GitHub: https://github.com/shahidazam2020-oss/
 
+LinkedIn: https://www.linkedin.com/in/shahid-azam-mughal-787b58235
 
-### One important improvement
-
-For a professional GitHub repository, I recommend naming the repository something like:
+---
 
 **`Digital-Image-Processing-MATLAB`**
 
 And using this short description under the repository name:
 
 > **A collection of MATLAB implementations covering fundamental Digital Image Processing techniques, including image enhancement, segmentation, filtering, edge detection, morphology, compression, feature extraction, and frequency domain processing.**
-
-You can also add **MATLAB, Digital Image Processing, Computer Vision, Image Pr
