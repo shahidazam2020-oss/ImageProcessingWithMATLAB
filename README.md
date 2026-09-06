@@ -218,6 +218,8 @@ Install MATLAB with the **Image Processing Toolbox**.
 git clone YOUR_GITHUB_REPOSITORY_URL
 
 ---
+
+```
 Step 3: Open MATLAB
 
 Open the cloned repository folder in MATLAB.
