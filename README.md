@@ -254,53 +254,153 @@ The techniques implemented in this repository can be applied in areas such as:
 
 ---
 
-# 📁 Repository Structure
+## 📁 Repository Structure
+
+The repository is organized into practical MATLAB programs covering different areas of Digital Image Processing.
+
+<details>
+<summary><b>🖼️ Image Enhancement</b></summary>
+
+| File | Description |
+|---|---|
+| `AdjustBrightnessAndContrast.m` | Brightness and contrast adjustment |
+| `BrightANDContrast.m` | Brightness and contrast processing |
+| `BrightnessContrast.m` | Image brightness and contrast |
+| `HistogramEqualization.m` | Histogram equalization |
+| `HistogramEq2.m` | Histogram equalization implementation |
+| `ColorImageEqualization.m` | Color image equalization |
+| `FHistogramOFChannel.m` | Histogram analysis of image channels |
+
+</details>
+
+<details>
+<summary><b>🎨 Image Segmentation</b></summary>
+
+| File | Description |
+|---|---|
+| `ColorBaseSegmentation.m` | Color based image segmentation |
+| `ColorChannelSegmentation.m` | Color channel based segmentation |
+| `FROI.m` | Region of Interest processing |
+| `FROISimple.m` | Simple ROI implementation |
+
+</details>
+
+<details>
+<summary><b>⚫ Thresholding and Binary Processing</b></summary>
+
+| File | Description |
+|---|---|
+| `FThreshold.m` | Basic image thresholding |
+| `FAdaptiveThreshold.m` | Adaptive thresholding |
+| `Binary&Gray.Image.m` | Binary and grayscale image processing |
+| `BinaryGray_image.m` | Binary and grayscale conversion |
+| `Binary&Gray.Image.m` | Binary and grayscale operations |
+
+</details>
+
+<details>
+<summary><b>🔍 Edge Detection</b></summary>
+
+| File | Description |
+|---|---|
+| `EdgeDetectionCanny.m` | Canny edge detection |
+| `EdgeDetectionCannySobel.m` | Canny and Sobel comparison |
+| `FSobelEDGE.m` | Sobel edge detection |
+| `FLaplacian.m` | Laplacian edge detection |
+
+</details>
+
+<details>
+<summary><b>🔬 Morphological Processing</b></summary>
+
+| File | Description |
+|---|---|
+| `FMorphological.m` | Morphological image processing |
+| `FMorphologicalPractice.m` | Morphological operations practice |
+| `DilationAndErosion.m` | Dilation and erosion |
+
+</details>
+
+<details>
+<summary><b>📐 Frequency Domain Processing</b></summary>
+
+| File | Description |
+|---|---|
+| `FourierTransformAndInverseTransform.m` | Fourier and inverse Fourier transform |
+| `FrequencyDomainFiltering.m` | Frequency domain filtering |
+
+</details>
+
+<details>
+<summary><b>🗜️ Image Compression</b></summary>
+
+| File | Description |
+|---|---|
+| `AnalyzingCompressionEffects.m` | Analysis of compression effects |
+| `ComparingFileSizes.m` | File size comparison |
+| `ComparingFileSizes2.m` | Alternative file size comparison |
+| `CompressionRatioCalculation.m` | Compression ratio calculation |
+| `FImageCompressionPCA.m` | PCA based image compression |
+
+</details>
+
+<details>
+<summary><b>✨ Feature Extraction and Detection</b></summary>
+
+| File | Description |
+|---|---|
+| `FExtractingSIFTFeatures.m` | SIFT feature extraction |
+| `HarrisDetector.m` | Harris corner detection |
+
+</details>
+
+<details>
+<summary><b>📏 Image Resizing</b></summary>
+
+| File | Description |
+|---|---|
+| `FResizeImage.m` | Image resizing |
+| `ResizedIMAG.m` | Image resizing implementation |
+
+</details>
+
+<details>
+<summary><b>🌈 Color Image Processing</b></summary>
+
+| File | Description |
+|---|---|
+| `FinalRGB.m` | RGB image processing |
+| `ColorBaseSegmentation.m` | Color based processing |
+| `ColorChannelSegmentation.m` | Color channel processing |
+| `ColorImageEqualization.m` | Color image equalization |
+
+</details>
+
+<details>
+<summary><b>📄 Supporting Files</b></summary>
+
+| File | Purpose |
+|---|---|
+| `Converted_img.jpg` | Sample image |
+| `Fig0630(01)(strawberries_fullcolor).tif` | Sample color image |
+| `Final Term Paper.docx` | Digital Image Processing term paper |
+
+</details>
+
+---
 Digital-Image-Processing/
 │
-├── AdjustBrightnessAndContrast.m
-├── AnalyzingCompressionEffects.m
-├── Binary&Gray.Image.m
-├── BinaryGray_image.m
-├── BrightANDContrast.m
-├── BrightnessContrast.m
-│
-├── ColorBaseSegmentation.m
-├── ColorChannelSegmentation.m
-├── ColorImageEqualization.m
-│
-├── ComparingFileSizes.m
-├── ComparingFileSizes2.m
-├── CompressionRatioCalculation.m
-│
-├── DilationAndErosion.m
-├── EdgeDetectionCanny.m
-├── EdgeDetectionCannySobel.m
-│
-├── FAdaptiveThreshold.m
-├── FExtractingSIFTFeatures.m
-├── FHistogramOFChannel.m
-├── FImageCompressionPCA.m
-├── FLaplacian.m
-├── FMorphological.m
-├── FMorphologicalPractice.m
-├── FROI.m
-├── FROISimple.m
-├── FResizeImage.m
-├── FSobelEDGE.m
-├── FThreshold.m
-│
-├── FourierTransformAndInverseTransform.m
-├── FrequencyDomainFiltering.m
-├── HarrisDetector.m
-├── HistogramEq2.m
-├── HistogramEqualization.m
-├── ResizedIMAG.m
-├── FinalRGB.m
-│
-├── Converted_img.jpg
-├── Fig0630(01)(strawberries_fullcolor).tif
-└── Final Term Paper.docx
-📌 Note
+├── file1.m
+├── file2.m
+├── file3.m
+├── file4.m
+├── file5.m
+├── file6.m
+
+---
+
+---
+# 📌 Note
 
 These programs were developed primarily for academic and educational purposes. They demonstrate individual Digital Image Processing concepts through practical MATLAB implementations.
 
