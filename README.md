@@ -1,6 +1,6 @@
 # Digital Image Processing with MATLAB
 
-A structured collection of MATLAB programs developed for learning and implementing core concepts of **Digital Image Processing**.
+*A structured collection of MATLAB programs developed for learning and implementing core concepts of **Digital Image Processing**.*
 
 This repository contains practical implementations of image enhancement, segmentation, filtering, edge detection, morphology, image compression, frequency domain processing, feature extraction, histogram processing, thresholding, and other fundamental image processing techniques.
 
