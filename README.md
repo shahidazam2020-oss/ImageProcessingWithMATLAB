@@ -172,6 +172,8 @@ Programs focused on processing images based on color information.
 | `ColorBaseSegmentation.m` | Color based segmentation |
 | `ColorImageEqualization.m` | Color image histogram equalization |
 
+---
+
 ### 11. Other Practical Work
 
 | File | Description |
