@@ -46,7 +46,6 @@ The programs are designed to provide practical understanding of how digital imag
 • Morphological Processing  
 
 ---
-
 ## 📂 Repository Contents
 
 ### 1. Image Enhancement
@@ -76,6 +75,8 @@ Programs for converting images into binary representations and separating object
 | `Binary&Gray.Image.m` | Conversion between binary and grayscale images |
 | `Binary&Gray.Image.m` | Binary and grayscale image processing |
 | `BinaryGray_image.m` | Binary and grayscale image operations |
+
+---
 
 ### 3. Image Segmentation
 
