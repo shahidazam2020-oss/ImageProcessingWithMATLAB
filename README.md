@@ -496,6 +496,12 @@ If you find this repository useful for learning Digital Image Processing, consid
 If you find this project useful for learning or experimentation, consider giving the repository a ⭐.
 
 <p align="center">
+
+**⭐ Star this repository • 🍴 Fork it • 🧠 Explore the code • 🚀 Build something new**
+
+</p>
+
+---
   
 **`Digital-Image-Processing-MATLAB`**
 
