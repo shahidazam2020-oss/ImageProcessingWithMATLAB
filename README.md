@@ -4,12 +4,24 @@ A structured collection of MATLAB programs developed for learning and implementi
 
 This repository contains practical implementations of image enhancement, segmentation, filtering, edge detection, morphology, image compression, frequency domain processing, feature extraction, histogram processing, thresholding, and other fundamental image processing techniques.
 
-## 👨‍💻 Author
+---
+# 👨‍💻 About Me
+## Shahid Azam
 
-**Shahid Azam**
+**MS Computer Science Student**
+**Specialization in Artificial Intelligence**
 
-MS Computer Science  
-Institute of Management Sciences, Peshawar
+*Institute of Management Sciences, Peshawar, Pakistan*
+
+I enjoy building complete software systems—from networking and operating system concepts to backend architecture, machine learning, and distributed systems.
+
+- 🎓 **Degree / Field:** MS in Computer Science (Specialization in Artificial Intelligence)
+- 🏆 **Achievements:** Designed and executed 30+ machine learning and data visualization projects delivering actionable insights
+- 🎯 **Focus Areas:** Data Visualization, AI/ML, Big Data Mining
+- 📬 **Contact:** shahidazam2020@gmail.com
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="18" height="18" valign="middle" /> WhatsApp: <a href="https://wa.me/+923412772594" target="_blank">Chat on WhatsApp</a>
+
+---
 
 ## 📚 About This Repository
 
