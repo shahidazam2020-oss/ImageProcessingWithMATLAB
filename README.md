@@ -491,7 +491,12 @@ If you find this repository useful for learning Digital Image Processing, consid
 </p>
 
 ---
+# ⭐ Repository
 
+If you find this project useful for learning or experimentation, consider giving the repository a ⭐.
+
+<p align="center">
+  
 **`Digital-Image-Processing-MATLAB`**
 
 And using this short description under the repository name:
