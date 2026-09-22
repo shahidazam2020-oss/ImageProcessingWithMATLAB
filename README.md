@@ -102,6 +102,7 @@ Implementation and comparison of common edge detection techniques.
 | `FSobelEDGE.m` | Sobel edge detection |
 | `FLaplacian.m` | Laplacian based edge detection |
 
+---
 ### 5. Morphological Image Processing
 
 Programs demonstrating morphological operations used for image analysis and object processing.
