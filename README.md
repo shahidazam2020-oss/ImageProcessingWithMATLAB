@@ -124,6 +124,8 @@ Programs related to filtering images in the spatial and frequency domains.
 | `FrequencyDomainFiltering.m` | Filtering in the frequency domain |
 | `FourierTransformAndInverseTransform.m` | Fourier transform and inverse Fourier transform |
 
+---
+
 ### 7. Image Compression
 
 Programs related to image compression, file sizes, and compression ratios.
