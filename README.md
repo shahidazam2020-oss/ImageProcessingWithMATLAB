@@ -182,6 +182,8 @@ Programs focused on processing images based on color information.
 | `Fig0630(01)(strawberries_fullcolor).tif` | Sample color image |
 | `Final Term Paper.docx` | Digital Image Processing term paper |
 
+---
+
 ## 🔬 Main Concepts Covered
 
 This repository covers the following Digital Image Processing concepts:
