@@ -276,6 +276,8 @@ Open the file in MATLAB and click Run.
 
 Some programs may require an input image. Make sure the required image file is available in the MATLAB working directory.
 
+---
+
 # 📊 Areas of Application
 
 The techniques implemented in this repository can be applied in areas such as:
