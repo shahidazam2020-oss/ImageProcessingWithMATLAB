@@ -31,6 +31,8 @@ The main purpose of this repository is to demonstrate how different image proces
 
 The programs are designed to provide practical understanding of how digital images can be enhanced, analyzed, segmented, compressed, transformed, and processed.
 
+---
+
 ## 🛠️ Technologies Used
 
 • MATLAB  
