@@ -136,6 +136,7 @@ Programs related to image compression, file sizes, and compression ratios.
 | `CompressionRatioCalculation.m` | Calculation of compression ratio |
 | `FImageCompressionPCA.m` | Image compression using PCA |
 
+---
 ### 8. Feature Detection and Extraction
 
 Programs for identifying important features within images.
