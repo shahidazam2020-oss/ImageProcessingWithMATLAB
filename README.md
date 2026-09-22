@@ -217,6 +217,8 @@ This repository covers the following Digital Image Processing concepts:
 • SIFT feature extraction  
 • Harris corner detection  
 
+---
+
 ## 🎯 Learning Objectives
 
 The practical work in this repository focuses on developing an understanding of:
