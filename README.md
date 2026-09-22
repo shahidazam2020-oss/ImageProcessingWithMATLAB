@@ -243,6 +243,8 @@ The practical work in this repository focuses on developing an understanding of:
 
 10. How feature extraction methods can identify important points and patterns.
 
+---
+
 ## ▶️ How to Run the Programs
 
 ### Step 1: Install MATLAB
