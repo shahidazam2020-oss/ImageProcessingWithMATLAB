@@ -43,6 +43,8 @@ The programs are designed to provide practical understanding of how digital imag
 • Edge Detection  
 • Morphological Processing  
 
+---
+
 ## 📂 Repository Contents
 
 ### 1. Image Enhancement
