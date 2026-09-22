@@ -159,6 +159,8 @@ Programs related to changing image dimensions and basic image manipulation.
 | `FResizeImage.m` | Image resizing |
 | `ResizedIMAG.m` | Image resizing implementation |
 
+---
+
 ### 10. Color Image Processing
 
 Programs focused on processing images based on color information.
