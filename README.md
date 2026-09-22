@@ -146,6 +146,8 @@ Programs for identifying important features within images.
 | `HarrisDetector.m` | Harris corner detection |
 | `FFExtractingSIFTFeatures.m` | SIFT feature extraction |
 
+---
+
 ### 9. Image Resizing and Processing
 
 Programs related to changing image dimensions and basic image manipulation.
