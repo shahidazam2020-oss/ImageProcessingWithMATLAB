@@ -63,6 +63,8 @@ Programs related to improving image brightness, contrast, and visual quality.
 | `HistogramEq2.m` | Alternative histogram equalization implementation |
 | `FHistogramOFChannel.m` | Histogram analysis of image channels |
 
+---
+
 ### 2. Image Thresholding
 
 Programs for converting images into binary representations and separating objects from backgrounds.
