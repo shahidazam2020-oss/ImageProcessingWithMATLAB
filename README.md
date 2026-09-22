@@ -84,6 +84,8 @@ Programs for separating meaningful regions or objects from an image.
 | `ROI.m` | Region of Interest processing |
 | `ROISimple.m` | Simple Region of Interest implementation |
 
+---
+
 ### 4. Edge Detection
 
 Implementation and comparison of common edge detection techniques.
