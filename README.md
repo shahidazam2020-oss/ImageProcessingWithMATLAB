@@ -113,6 +113,8 @@ Programs demonstrating morphological operations used for image analysis and obje
 | `FMorphologicalPractice.m` | Practical morphological operations |
 | `DilationAndErosion.m` | Dilation and erosion operations |
 
+---
+
 ### 6. Image Filtering
 
 Programs related to filtering images in the spatial and frequency domains.
