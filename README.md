@@ -518,6 +518,13 @@ If you reuse or extend this project, please provide appropriate attribution to t
 </p>
 
 ---
+# ⭐ Support
+
+*If you find this repository useful for learning Machine Learning, consider giving it a ⭐.*
+
+*Your feedback, suggestions, and contributions are welcome.*
+
+---
 **`Digital-Image-Processing-MATLAB`**
 
 And using this short description under the repository name:
