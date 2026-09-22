@@ -460,17 +460,13 @@ Possible future improvements include:
 • Integrating image processing with Machine Learning
 • Integrating image processing with Deep Learning
 
+---
+
 # 📖 Course
 
 Digital Image Processing
 
 Practical implementation using MATLAB.
-
-# ⭐ Repository
-
-If you find this repository useful for learning Digital Image Processing, consider giving it a star.
-
----
 
 # 🤝 Connect With Me
 
