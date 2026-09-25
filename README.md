@@ -50,7 +50,7 @@ The programs are designed to provide practical understanding of how digital imag
 
 ### 1. Image Enhancement
 
-Programs related to improving image brightness, contrast, and visual quality.
+**Programs related to improving image brightness, contrast, and visual quality.**
 
 | Program | Description |
 |---|---|
