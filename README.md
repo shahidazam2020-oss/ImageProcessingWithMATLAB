@@ -66,7 +66,7 @@ The programs are designed to provide practical understanding of how digital imag
 
 ### 2. Image Thresholding
 
-Programs for converting images into binary representations and separating objects from backgrounds.
+**Programs for converting images into binary representations and separating objects from backgrounds.**
 
 | Program | Description |
 |---|---|
