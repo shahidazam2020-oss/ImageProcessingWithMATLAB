@@ -128,7 +128,7 @@ The programs are designed to provide practical understanding of how digital imag
 
 ### 7. Image Compression
 
-Programs related to image compression, file sizes, and compression ratios.
+**Programs related to image compression, file sizes, and compression ratios.**
 
 | Program | Description |
 |---|---|
