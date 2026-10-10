@@ -221,7 +221,7 @@ The programs are designed to provide practical understanding of how digital imag
 
 ## 🎯 Learning Objectives
 
-The practical work in this repository focuses on developing an understanding of:
+**The practical work in this repository focuses on developing an understanding of:**
 
 1. How digital images are represented and processed.
 
