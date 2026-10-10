@@ -449,7 +449,7 @@ The code can be further improved, optimized, and combined to develop larger Comp
 
 # 🚀 Future Improvements
 
-Possible future improvements include:
+**Possible future improvements include:**
 
 • Adding detailed comments to every MATLAB program
 • Adding sample input and output images
