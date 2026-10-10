@@ -117,7 +117,7 @@ The programs are designed to provide practical understanding of how digital imag
 
 ### 6. Image Filtering
 
-Programs related to filtering images in the spatial and frequency domains.
+**Programs related to filtering images in the spatial and frequency domains.**
 
 | Program | Description |
 |---|---|
