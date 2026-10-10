@@ -105,7 +105,7 @@ The programs are designed to provide practical understanding of how digital imag
 ---
 ### 5. Morphological Image Processing
 
-Programs demonstrating morphological operations used for image analysis and object processing.
+**Programs demonstrating morphological operations used for image analysis and object processing.**
 
 | Program | Description |
 |---|---|
