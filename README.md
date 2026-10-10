@@ -93,7 +93,7 @@ The programs are designed to provide practical understanding of how digital imag
 
 ### 4. Edge Detection
 
-Implementation and comparison of common edge detection techniques.
+**Implementation and comparison of common edge detection techniques.**
 
 | Program | Description |
 |---|---|
