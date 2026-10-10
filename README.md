@@ -280,7 +280,7 @@ Open the file in MATLAB and click Run.
 
 # 📊 Areas of Application
 
-The techniques implemented in this repository can be applied in areas such as:
+**The techniques implemented in this repository can be applied in areas such as:**
 
 • Computer Vision
 • Medical Image Processing
