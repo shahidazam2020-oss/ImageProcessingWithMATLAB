@@ -186,7 +186,7 @@ The programs are designed to provide practical understanding of how digital imag
 
 ## 🔬 Main Concepts Covered
 
-This repository covers the following Digital Image Processing concepts:
+**This repository covers the following Digital Image Processing concepts:**
 
 • Image representation and basic manipulation  
 • Grayscale image processing  
