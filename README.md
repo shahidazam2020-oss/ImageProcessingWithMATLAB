@@ -80,7 +80,7 @@ The programs are designed to provide practical understanding of how digital imag
 
 ### 3. Image Segmentation
 
-Programs for separating meaningful regions or objects from an image.
+**Programs for separating meaningful regions or objects from an image.**
 
 | Program | Description |
 |---|---|
