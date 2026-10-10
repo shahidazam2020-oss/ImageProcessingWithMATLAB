@@ -141,7 +141,7 @@ The programs are designed to provide practical understanding of how digital imag
 ---
 ### 8. Feature Detection and Extraction
 
-Programs for identifying important features within images.
+**Programs for identifying important features within images.**
 
 | Program | Description |
 |---|---|
