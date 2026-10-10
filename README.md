@@ -163,7 +163,7 @@ The programs are designed to provide practical understanding of how digital imag
 
 ### 10. Color Image Processing
 
-Programs focused on processing images based on color information.
+**Programs focused on processing images based on color information.**
 
 | Program | Description |
 |---|---|
