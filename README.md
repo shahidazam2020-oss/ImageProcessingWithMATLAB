@@ -297,7 +297,7 @@ Open the file in MATLAB and click Run.
 
 ## 📁 Repository Structure
 
-The repository is organized into practical MATLAB programs covering different areas of Digital Image Processing.
+**The repository is organized into practical MATLAB programs covering different areas of Digital Image Processing.**
 
 <details>
 <summary><b>🖼️ Image Enhancement</b></summary>
