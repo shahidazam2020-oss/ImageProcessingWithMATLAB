@@ -152,7 +152,7 @@ The programs are designed to provide practical understanding of how digital imag
 
 ### 9. Image Resizing and Processing
 
-Programs related to changing image dimensions and basic image manipulation.
+**Programs related to changing image dimensions and basic image manipulation.**
 
 | Program | Description |
 |---|---|
