@@ -464,7 +464,7 @@ The code can be further improved, optimized, and combined to develop larger Comp
 
 # 📖 Course
 
-Digital Image Processing
+**Digital Image Processing**
 
 Practical implementation using MATLAB.
 
