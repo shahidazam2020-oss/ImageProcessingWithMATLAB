@@ -377,7 +377,7 @@ EdgeDetectionCanny.m
 
 Open the desired `.m` file and click **Run** in MATLAB.
 
-Alternatively, execute a script from the MATLAB Command Window:
+**Alternatively, execute a script from the MATLAB Command Window:**
 
 ```matlab
 run('HarrisDetector.m')
