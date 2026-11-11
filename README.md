@@ -263,7 +263,7 @@ Welcome to my **Digital Image Processing with MATLAB** repository.
 
 # 📸 VISUAL RESULTS GALLERY
 
-The repository includes sample images and compression outputs that can support visual experimentation.
+**The repository includes sample images and compression outputs that can support visual experimentation.**
 
 ### 🖼️ Image Processing Resources
 
