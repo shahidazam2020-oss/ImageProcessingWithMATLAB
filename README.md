@@ -439,7 +439,7 @@ run('HarrisDetector.m')
 
 **This repository is primarily intended for academic learning, experimentation, and educational purposes.**
 
-No explicit open-source license is currently specified. Please contact the repository owner for permission before redistributing or reusing the code.
+**No explicit open-source license is currently specified. Please contact the repository owner for permission before redistributing or reusing the code.**
 
 ---
 
