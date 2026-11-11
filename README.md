@@ -423,7 +423,7 @@ run('HarrisDetector.m')
 
 # 🤝 CONTRIBUTIONS
 
-Suggestions, improvements, and contributions are welcome.
+**Suggestions, improvements, and contributions are welcome.**
 
 If you would like to contribute:
 
