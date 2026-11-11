@@ -180,7 +180,7 @@ Welcome to my **Digital Image Processing with MATLAB** repository.
 
 ## 07. 🗜️ Image Compression
 
-Implementations for understanding image compression, file sizes, and compression quality.
+**Implementations for understanding image compression, file sizes, and compression quality.**
 
 | MATLAB File | Description |
 |:---|:---|
