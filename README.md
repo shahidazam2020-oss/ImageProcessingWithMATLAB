@@ -1,528 +1,497 @@
-# Digital Image Processing with MATLAB
+<div align="center">
 
-A structured collection of MATLAB programs developed for learning and implementing core concepts of **Digital Image Processing**.
+# 🖼️ DIGITAL IMAGE PROCESSING WITH MATLAB
 
-This repository contains practical implementations of image enhancement, segmentation, filtering, edge detection, morphology, image compression, frequency domain processing, feature extraction, histogram processing, thresholding, and other fundamental image processing techniques.
+### Exploring Images Through Algorithms, Mathematics & Computer Vision
 
----
-# 👨‍💻 About Me
-## Shahid Azam
+**Image Enhancement • Image Restoration • Segmentation • Feature Extraction • Computer Vision**
 
-**MS Computer Science Student**
-**Specialization in Artificial Intelligence**
+<br>
 
-*Institute of Management Sciences, Peshawar, Pakistan*
+[![MATLAB](https://img.shields.io/badge/MATLAB-Programming-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+[![Image Processing](https://img.shields.io/badge/Image-Processing-2E8B57?style=for-the-badge)](https://www.mathworks.com/products/image.html)
+[![Computer Vision](https://img.shields.io/badge/Computer-Vision-6A5ACD?style=for-the-badge)](https://www.mathworks.com/products/computer-vision.html)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/shahidazam2020-oss/ImageProcessingWithMATLAB)
 
-I enjoy building complete software systems—from networking and operating system concepts to backend architecture, machine learning, and distributed systems.
+<br>
 
-- 🎓 **Degree / Field:** MS in Computer Science (Specialization in Artificial Intelligence)
-- 🏆 **Achievements:** Designed and executed 30+ machine learning and data visualization projects delivering actionable insights
-- 🎯 **Focus Areas:** Data Visualization, AI/ML, Big Data Mining
-- 📬 **Contact:** shahidazam2020@gmail.com
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="18" height="18" valign="middle" /> WhatsApp: <a href="https://wa.me/+923412772594" target="_blank">Chat on WhatsApp</a>
+[📂 Explore Code](#-project-dashboard) &nbsp; • &nbsp;
+[🔬 Concepts](#-image-processing-concepts) &nbsp; • &nbsp;
+[📸 Gallery](#-visual-results-gallery) &nbsp; • &nbsp;
+[⚙️ Installation](#-getting-started) &nbsp; • &nbsp;
+[👨‍💻 Developer](#-about-the-developer)
 
----
+<br>
 
-## 📚 About This Repository
+[![GitHub Stars](https://img.shields.io/github/stars/shahidazam2020-oss/ImageProcessingWithMATLAB?style=social)](https://github.com/shahidazam2020-oss/ImageProcessingWithMATLAB/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/shahidazam2020-oss/ImageProcessingWithMATLAB?style=social)](https://github.com/shahidazam2020-oss/ImageProcessingWithMATLAB/forks)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/shahidazam2020-oss/ImageProcessingWithMATLAB?style=flat-square)](https://github.com/shahidazam2020-oss/ImageProcessingWithMATLAB/commits/master)
 
-This repository was developed as part of my **Digital Image Processing** coursework and practical work.
-
-The main purpose of this repository is to demonstrate how different image processing techniques can be implemented using **MATLAB** and the **Image Processing Toolbox**.
-
-The programs are designed to provide practical understanding of how digital images can be enhanced, analyzed, segmented, compressed, transformed, and processed.
+</div>
 
 ---
 
-## 🛠️ Technologies Used
+# 📌 PROJECT OVERVIEW
 
-• MATLAB  
-• MATLAB Image Processing Toolbox  
-• Digital Image Processing Techniques  
-• Fourier Transform  
-• PCA  
-• Image Segmentation  
-• Image Enhancement  
-• Edge Detection  
-• Morphological Processing  
+Welcome to my **Digital Image Processing with MATLAB** repository.
 
----
-## 📂 Repository Contents
+This repository is a collection of practical MATLAB implementations developed to explore fundamental and advanced concepts of Digital Image Processing.
 
-### 1. Image Enhancement
+It demonstrates how digital images can be enhanced, filtered, transformed, segmented, compressed, restored, and analyzed using mathematical operations and image-processing algorithms.
 
-**Programs related to improving image brightness, contrast, and visual quality.**
+The repository combines academic coursework, programming practice, and experimental implementations to strengthen practical understanding of image processing and computer vision.
 
-| Program | Description |
-|---|---|
-| `AdjustBrightnessAndContrast.m` | Adjusts image brightness and contrast |
-| `BrightANDContrast.m` | Basic brightness and contrast adjustment |
-| `BrightnessContrast.m` | Demonstrates brightness and contrast operations |
-| `ColorImageEqualization.m` | Performs histogram equalization on color images |
-| `HistogramEqualization.m` | Implements histogram equalization |
-| `HistogramEq2.m` | Alternative histogram equalization implementation |
-| `FHistogramOFChannel.m` | Histogram analysis of image channels |
+### 🎯 Core Areas
+
+| Domain | Focus |
+|:---|:---|
+| 🖼️ Image Enhancement | Brightness, contrast and histogram equalization |
+| 🔍 Image Detection | Edge detection and feature extraction |
+| 🎨 Image Segmentation | Thresholding, color segmentation and watershed |
+| 🧹 Image Restoration | Noise reduction and image filtering |
+| 📐 Image Transformation | Resizing, rotation and geometric operations |
+| 🗜️ Image Compression | JPEG compression and PCA |
+| 🌐 Frequency Domain | Fourier and inverse Fourier transforms |
+| 🧬 Mathematical Morphology | Dilation, erosion, opening and closing |
+| 🤖 Computer Vision | Object detection and template matching |
 
 ---
 
-### 2. Image Thresholding
+# 📊 PROJECT DASHBOARD
 
-**Programs for converting images into binary representations and separating objects from backgrounds.**
+<div align="center">
 
-| Program | Description |
-|---|---|
-| `FThreshold.m` | Basic image thresholding |
-| `FAdaptiveThreshold.m` | Adaptive thresholding |
-| `Binary&Gray.Image.m` | Conversion between binary and grayscale images |
-| `Binary&Gray.Image.m` | Binary and grayscale image processing |
-| `BinaryGray_image.m` | Binary and grayscale image operations |
+| Category | Implementations | Status |
+|:---|:---:|:---|
+| 🖼️ Image Enhancement | Multiple MATLAB programs | ✅ Available |
+| 📊 Histogram Processing | Multiple implementations | ✅ Available |
+| 🔍 Edge Detection | Canny, Sobel, Laplacian | ✅ Available |
+| 🎨 Image Segmentation | Color, Watershed, Thresholding | ✅ Available |
+| 🧹 Image Filtering | Median and Gaussian filtering | ✅ Available |
+| 🧬 Morphological Processing | Dilation, Erosion, Skeletonization | ✅ Available |
+| 📐 Image Transformation | Rotation and Resizing | ✅ Available |
+| 🗜️ Image Compression | JPEG, PCA and Lossless | ✅ Available |
+| 🌐 Frequency Domain | Fourier Transform | ✅ Available |
+| ✨ Feature Extraction | SIFT and Harris Detector | ✅ Available |
+| 🤖 Object Detection | Viola–Jones and Edge-Based | ✅ Available |
 
----
-
-### 3. Image Segmentation
-
-**Programs for separating meaningful regions or objects from an image.**
-
-| Program | Description |
-|---|---|
-| `ColorBaseSegmentation.m` | Color based image segmentation |
-| `ColorChannelSegmentation.m` | Segmentation using individual color channels |
-| `ROI.m` | Region of Interest processing |
-| `ROISimple.m` | Simple Region of Interest implementation |
+</div>
 
 ---
 
-### 4. Edge Detection
+# 🔬 IMAGE PROCESSING MODULES
 
-**Implementation and comparison of common edge detection techniques.**
+## 01. 🖼️ Image Enhancement
 
-| Program | Description |
-|---|---|
-| `EdgeDetectionCanny.m` | Canny edge detection |
-| `EdgeDetectionCannySobel.m` | Comparison of Canny and Sobel edge detection |
-| `FSobelEDGE.m` | Sobel edge detection |
-| `FLaplacian.m` | Laplacian based edge detection |
+Techniques for improving image brightness, contrast, and visual quality.
 
----
-### 5. Morphological Image Processing
-
-**Programs demonstrating morphological operations used for image analysis and object processing.**
-
-| Program | Description |
-|---|---|
-| `FMorphological.m` | Basic morphological image processing |
-| `FMorphologicalPractice.m` | Practical morphological operations |
-| `DilationAndErosion.m` | Dilation and erosion operations |
-
----
-
-### 6. Image Filtering
-
-**Programs related to filtering images in the spatial and frequency domains.**
-
-| Program | Description |
-|---|---|
-| `FrequencyDomainFiltering.m` | Filtering in the frequency domain |
-| `FourierTransformAndInverseTransform.m` | Fourier transform and inverse Fourier transform |
-
----
-
-### 7. Image Compression
-
-**Programs related to image compression, file sizes, and compression ratios.**
-
-| Program | Description |
-|---|---|
-| `AnalyzingCompressionEffects.m` | Analysis of image compression effects |
-| `ComparingFileSizes.m` | Comparison of image file sizes |
-| `ComparingFileSizes2.m` | Alternative file size comparison |
-| `CompressionRatioCalculation.m` | Calculation of compression ratio |
-| `FImageCompressionPCA.m` | Image compression using PCA |
-
----
-### 8. Feature Detection and Extraction
-
-**Programs for identifying important features within images.**
-
-| Program | Description |
-|---|---|
-| `HarrisDetector.m` | Harris corner detection |
-| `FFExtractingSIFTFeatures.m` | SIFT feature extraction |
-
----
-
-### 9. Image Resizing and Processing
-
-**Programs related to changing image dimensions and basic image manipulation.**
-
-| Program | Description |
-|---|---|
-| `FResizeImage.m` | Image resizing |
-| `ResizedIMAG.m` | Image resizing implementation |
-
----
-
-### 10. Color Image Processing
-
-**Programs focused on processing images based on color information.**
-
-| Program | Description |
-|---|---|
-| `FinalRGB.m` | RGB image processing |
-| `ColorChannelSegmentation.m` | Color channel based segmentation |
-| `ColorBaseSegmentation.m` | Color based segmentation |
-| `ColorImageEqualization.m` | Color image histogram equalization |
-
----
-
-### 11. Other Practical Work
-
-| File | Description |
-|---|---|
-| `Converted_img.jpg` | Converted image used in practical work |
-| `Fig0630(01)(strawberries_fullcolor).tif` | Sample color image |
-| `Final Term Paper.docx` | Digital Image Processing term paper |
-
----
-
-## 🔬 Main Concepts Covered
-
-**This repository covers the following Digital Image Processing concepts:**
-
-• Image representation and basic manipulation  
-• Grayscale image processing  
-• Binary image processing  
-• Brightness adjustment  
-• Contrast enhancement  
-• Histogram analysis  
-• Histogram equalization  
-• Thresholding  
-• Adaptive thresholding  
-• Color based segmentation  
-• Region of Interest processing  
-• Edge detection  
-• Canny edge detection  
-• Sobel edge detection  
-• Laplacian edge detection  
-• Morphological operations  
-• Dilation  
-• Erosion  
-• Image resizing  
-• Image filtering  
-• Frequency domain filtering  
-• Fourier transform  
-• Inverse Fourier transform  
-• Image compression  
-• Compression ratio calculation  
-• PCA based image compression  
-• SIFT feature extraction  
-• Harris corner detection  
-
----
-
-## 🎯 Learning Objectives
-
-**The practical work in this repository focuses on developing an understanding of:**
-
-1. How digital images are represented and processed.
-
-2. How image quality can be improved using enhancement techniques.
-
-3. How histograms can be used to analyze and enhance images.
-
-4. How thresholding can separate foreground objects from backgrounds.
-
-5. How segmentation techniques can identify meaningful image regions.
-
-6. How edge detection algorithms identify boundaries and important structures.
-
-7. How morphological operations can modify and analyze image structures.
-
-8. How Fourier transforms can be used for frequency domain processing.
-
-9. How PCA can be applied to image compression.
-
-10. How feature extraction methods can identify important points and patterns.
-
----
-
-## ▶️ How to Run the Programs
-
-### Step 1: Install MATLAB
-
-Install MATLAB with the **Image Processing Toolbox**.
-
-### Step 2: Clone the Repository
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-
----
-
-```
-### Step 3: Open MATLAB
-
-Open the cloned repository folder in MATLAB.
-
-### Step 4: Select a Program
-
-Choose any .m file from the repository.
-
-For example:
-
-HarrisDetector.m
-### Step 5: Run the Program
-
-Open the file in MATLAB and click Run.
-
-**Some programs may require an input image. Make sure the required image file is available in the MATLAB working directory.**
-
----
-
-# 📊 Areas of Application
-
-**The techniques implemented in this repository can be applied in areas such as:**
-
-• Computer Vision
-• Medical Image Processing
-• Object Detection
-• Pattern Recognition
-• Image Classification
-• Remote Sensing
-• Surveillance Systems
-• Document Processing
-• Industrial Inspection
-• Artificial Intelligence
-
----
-
-## 📁 Repository Structure
-
-**The repository is organized into practical MATLAB programs covering different areas of Digital Image Processing.**
-
-<details>
-<summary><b>🖼️ Image Enhancement</b></summary>
-
-| File | Description |
-|---|---|
-| `AdjustBrightnessAndContrast.m` | Brightness and contrast adjustment |
+| MATLAB File | Description |
+|:---|:---|
+| `AdjustBrightnessAndContrass.m` | Brightness and contrast adjustment |
 | `BrightANDContrast.m` | Brightness and contrast processing |
-| `BrightnessContrast.m` | Image brightness and contrast |
+| `BrightnessContrast.m` | Image intensity adjustment |
 | `HistogramEqualization.m` | Histogram equalization |
-| `HistogramEq2.m` | Histogram equalization implementation |
+| `HistogramEqualization2.m` | Alternative histogram equalization |
+| `HistogramEq2.m` | Histogram enhancement |
 | `ColorImageEqualization.m` | Color image equalization |
-| `FHistogramOFChannel.m` | Histogram analysis of image channels |
+| `LogTransformation.m` | Logarithmic intensity transformation |
+| `LogTransformation2.m` | Alternative logarithmic transformation |
+| `SharpenImage.m` | Image sharpening |
 
-</details>
+---
 
-<details>
-<summary><b>🎨 Image Segmentation</b></summary>
+## 02. 🔍 Edge Detection
 
-| File | Description |
-|---|---|
-| `ColorBaseSegmentation.m` | Color based image segmentation |
-| `ColorChannelSegmentation.m` | Color channel based segmentation |
-| `FROI.m` | Region of Interest processing |
-| `FROISimple.m` | Simple ROI implementation |
+Implementations of different edge detection algorithms for identifying boundaries and structural information.
 
-</details>
-
-<details>
-<summary><b>⚫ Thresholding and Binary Processing</b></summary>
-
-| File | Description |
-|---|---|
-| `FThreshold.m` | Basic image thresholding |
-| `FAdaptiveThreshold.m` | Adaptive thresholding |
-| `Binary&Gray.Image.m` | Binary and grayscale image processing |
-| `BinaryGray_image.m` | Binary and grayscale conversion |
-| `Binary&Gray.Image.m` | Binary and grayscale operations |
-
-</details>
-
-<details>
-<summary><b>🔍 Edge Detection</b></summary>
-
-| File | Description |
-|---|---|
+| MATLAB File | Description |
+|:---|:---|
 | `EdgeDetectionCanny.m` | Canny edge detection |
-| `EdgeDetectionCannySobel.m` | Canny and Sobel comparison |
+| `EdgeDetectionCannySobel.m` | Canny and Sobel processing |
 | `FSobelEDGE.m` | Sobel edge detection |
-| `FLaplacian.m` | Laplacian edge detection |
+| `FLablasian.m` | Laplacian-based processing |
+| `edgeDetection.m` | Edge detection implementation |
+| `FEdgeDetection.m` | Edge detection practice |
+| `edgeBaseObjectDetection.m` | Edge-based object detection |
 
-</details>
+---
 
-<details>
-<summary><b>🔬 Morphological Processing</b></summary>
+## 03. 🎨 Image Segmentation & Thresholding
 
-| File | Description |
-|---|---|
-| `FMorphological.m` | Morphological image processing |
-| `FMorphologicalPractice.m` | Morphological operations practice |
-| `DilationAndErosion.m` | Dilation and erosion |
+Techniques for separating objects, regions, and meaningful structures from images.
 
-</details>
+| MATLAB File | Description |
+|:---|:---|
+| `ColorBaseSegmentation.m` | Color-based segmentation |
+| `ColorChannelSegmentation.m` | Color channel segmentation |
+| `FThreshold.m` | Image thresholding |
+| `FAdaptiveThreshold.m` | Adaptive thresholding |
+| `ThresholdImages.m` | Threshold-based image processing |
+| `Threshold_Image.m` | Image thresholding |
+| `SegmentedImage.m` | Segmented image processing |
+| `WaterShedSegmentation.m` | Watershed segmentation |
+| `OpenAndCloseBinarizez.m` | Binary image processing |
+| `RemovingSmallObjects.m` | Small-object removal |
+| `FROI.m` | Region of Interest processing |
+| `FROISimple.m` | Basic ROI implementation |
 
-<details>
-<summary><b>📐 Frequency Domain Processing</b></summary>
+---
 
-| File | Description |
-|---|---|
-| `FourierTransformAndInverseTransform.m` | Fourier and inverse Fourier transform |
+## 04. 🧹 Image Filtering & Restoration
+
+Practical implementations of spatial filtering and image restoration techniques.
+
+| MATLAB File | Description |
+|:---|:---|
+| `MedianFilter.m` | Median filtering |
+| `MedianFilter2.m` | Alternative median filtering |
+| `guassianFiltered.m` | Gaussian filtering |
+| `ImageRestoration.m` | Image restoration |
+| `openingAndClosing.m` | Morphological opening and closing |
+
+---
+
+## 05. 🧬 Morphological Image Processing
+
+Mathematical morphology techniques for analyzing and modifying image structures.
+
+| MATLAB File | Description |
+|:---|:---|
+| `FMorphological.m` | Morphological operations |
+| `FMorphologicalPractice.m` | Morphological processing practice |
+| `MorphologicalImage.m` | Morphological image processing |
+| `DialationAndErosion.m` | Dilation and erosion |
+| `openingAndClosing.m` | Opening and closing |
+| `SkeletonImage.m` | Image skeletonization |
+
+---
+
+## 06. 🌐 Frequency Domain Processing
+
+Exploring image transformations and filtering in the frequency domain.
+
+| MATLAB File | Description |
+|:---|:---|
+| `FourierTransformAndInverseTransform.m` | Fourier and inverse Fourier transforms |
 | `FrequencyDomainFiltering.m` | Frequency domain filtering |
+| `PhaseCongruency.m` | Phase congruency processing |
 
-</details>
+---
 
-<details>
-<summary><b>🗜️ Image Compression</b></summary>
+## 07. 🗜️ Image Compression
 
-| File | Description |
-|---|---|
-| `AnalyzingCompressionEffects.m` | Analysis of compression effects |
+Implementations for understanding image compression, file sizes, and compression quality.
+
+| MATLAB File | Description |
+|:---|:---|
+| `JPEGCompression.m` | JPEG compression |
+| `JPEGCompression2.m` | Alternative JPEG compression |
+| `AnalyzingCompressionEffects.m` | Compression effect analysis |
 | `ComparingFileSizes.m` | File size comparison |
 | `ComparingFileSizes2.m` | Alternative file size comparison |
 | `CompressionRatioCalculation.m` | Compression ratio calculation |
-| `FImageCompressionPCA.m` | PCA based image compression |
+| `FImageCOmpressionPCA.m` | PCA-based image compression |
+| `LosslessCompressionImage.m` | Lossless image compression |
 
-</details>
+---
 
-<details>
-<summary><b>✨ Feature Extraction and Detection</b></summary>
+## 08. ✨ Feature Detection & Extraction
 
-| File | Description |
-|---|---|
-| `FExtractingSIFTFeatures.m` | SIFT feature extraction |
+Identifying important points, structures, and features within digital images.
+
+| MATLAB File | Description |
+|:---|:---|
 | `HarrisDetector.m` | Harris corner detection |
+| `EExtractindSIFTFeatures.m` | SIFT feature extraction |
+| `TemplateMatching.m` | Image template matching |
 
-</details>
+---
 
-<details>
-<summary><b>📏 Image Resizing</b></summary>
+## 09. 🤖 Object Detection
 
-| File | Description |
-|---|---|
+Computer vision implementations for identifying objects and important image structures.
+
+| MATLAB File | Description |
+|:---|:---|
+| `ObjectDetectionUsingViola_Jones.m` | Viola–Jones object detection |
+| `edgeBaseObjectDetection.m` | Edge-based object detection |
+| `TemplateMatching.m` | Template-based detection |
+
+---
+
+## 10. 📐 Image Transformation & Manipulation
+
+Operations for changing image dimensions, orientation, and representation.
+
+| MATLAB File | Description |
+|:---|:---|
 | `FResizeImage.m` | Image resizing |
-| `ResizedIMAG.m` | Image resizing implementation |
-
-</details>
-
-<details>
-<summary><b>🌈 Color Image Processing</b></summary>
-
-| File | Description |
-|---|---|
+| `FresizedIMAG.m` | Resized image processing |
+| `ResizedImage.m` | Image resizing |
+| `ResizedImage2.m` | Alternative resizing |
+| `RotateIMG.m` | Image rotation |
+| `RotatedImage.m` | Rotated image processing |
+| `RotatedImage2.m` | Alternative rotation |
+| `ImageConversion.m` | Image conversion |
+| `InspectingImageProperties.m` | Image property inspection |
 | `FinalRGB.m` | RGB image processing |
-| `ColorBaseSegmentation.m` | Color based processing |
-| `ColorChannelSegmentation.m` | Color channel processing |
-| `ColorImageEqualization.m` | Color image equalization |
+| `hsvImage.m` | HSV color representation |
 
-</details>
+---
 
-<details>
-<summary><b>📄 Supporting Files</b></summary>
+# 🧠 IMAGE PROCESSING CONCEPTS
 
-| File | Purpose |
-|---|---|
-| `Converted_img.jpg` | Sample image |
+The repository covers several fundamental concepts of Digital Image Processing.
+
+| Concept | Description |
+|:---|:---|
+| Grayscale Processing | Processing single-channel images |
+| Binary Processing | Working with binary representations |
+| Histogram Analysis | Understanding intensity distributions |
+| Contrast Enhancement | Improving image visibility |
+| Thresholding | Separating foreground and background |
+| Edge Detection | Identifying image boundaries |
+| Segmentation | Dividing images into meaningful regions |
+| Morphology | Analyzing image structures |
+| Filtering | Reducing noise and enhancing details |
+| Fourier Transform | Frequency domain representation |
+| Image Compression | Reducing image storage requirements |
+| Feature Extraction | Identifying distinctive image features |
+| Object Detection | Locating objects in images |
+
+---
+
+# 📸 VISUAL RESULTS GALLERY
+
+The repository includes sample images and compression outputs that can support visual experimentation.
+
+### 🖼️ Image Processing Resources
+
+| Resource | Description |
+|:---|:---|
+| `Converted_img.jpg` | Converted image sample |
 | `Fig0630(01)(strawberries_fullcolor).tif` | Sample color image |
-| `Final Term Paper.docx` | Digital Image Processing term paper |
+| `apricots-2444808_1920.jpg` | Apricot image sample |
+| `apricots-2523272_1920.jpg` | Apricot image sample |
+| `compressed_img.jpg` | Compressed image |
+| `compressed_quality_100.jpg` | High-quality compression sample |
+| `compressed_quality_25.jpg` | Lower-quality compression sample |
+| `lossless_compressed_img.png` | Lossless compression output |
 
-</details>
+### 🗂️ Suggested Visual Gallery
 
----
-Digital-Image-Processing/
-│
-├── file1.m
-├── file2.m
-├── file3.m
-├── file4.m
-├── file5.m
-├── file6.m
+For a more visual GitHub experience, add an `assets/screenshots/` folder and upload actual MATLAB output screenshots.
 
----
+Suggested filenames:
 
----
-# 📌 Note
+```text
+assets/
+└── screenshots/
+    ├── brightness-contrast.png
+    ├── histogram-equalization.png
+    ├── canny-edge-detection.png
+    ├── image-segmentation.png
+    ├── morphological-operations.png
+    ├── frequency-filtering.png
+    ├── image-compression.png
+    └── feature-detection.png
+```
 
-These programs were developed primarily for academic and educational purposes. They demonstrate individual Digital Image Processing concepts through practical MATLAB implementations.
-
-The code can be further improved, optimized, and combined to develop larger Computer Vision and Image Processing applications.
-
-# 🚀 Future Improvements
-
-**Possible future improvements include:**
-
-• Adding detailed comments to every MATLAB program
-• Adding sample input and output images
-• Improving code organization
-• Adding result comparisons between algorithms
-• Adding performance evaluation
-• Developing a MATLAB GUI for selected techniques
-• Integrating image processing with Machine Learning
-• Integrating image processing with Deep Learning
+Once uploaded, these images can be embedded directly into this README.
 
 ---
 
-# 📖 Course
+# 🛠️ TECHNOLOGY STACK
 
-**Digital Image Processing**
+<div align="center">
 
-**Practical implementation using MATLAB.**
+### Programming Environment
 
-# 🤝 Connect With Me
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-<p align="center">
+### Core Technologies
 
-<a href="https://github.com/shahidazam2020-oss">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+![Image Processing](https://img.shields.io/badge/Digital%20Image%20Processing-2E8B57?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-6A5ACD?style=flat-square)
+![Fourier Transform](https://img.shields.io/badge/Fourier%20Transform-FF8C00?style=flat-square)
+![PCA](https://img.shields.io/badge/Principal%20Component%20Analysis-4682B4?style=flat-square)
 
-<a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+### MATLAB Capabilities
 
-<a href="mailto:shahidazam2020@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+- Image Processing Toolbox
+- Image Filtering
+- Image Segmentation
+- Mathematical Morphology
+- Frequency Domain Analysis
+- Feature Detection
 
-</p>
-
----
-# ⭐ Repository
-
-If you find this project useful for learning or experimentation, consider giving the repository a ⭐.
-
-<p align="center">
-
-**⭐ Star this repository • 🍴 Fork it • 🧠 Explore the code • 🚀 Build something new**
-
-</p>
+</div>
 
 ---
-# 📜 License
 
-This project is intended for educational, research, and experimental purposes.
+# 🚀 GETTING STARTED
 
-If you reuse or extend this project, please provide appropriate attribution to the original work and dataset sources where applicable.
+Follow these steps to run the MATLAB programs.
+
+### 1. Prerequisites
+
+Make sure you have:
+
+- MATLAB installed.
+- MATLAB Image Processing Toolbox for programs that use its functions.
+- Basic understanding of MATLAB programming.
+
+### 2. Clone the Repository
+
+```bash
+git clone https://github.com/shahidazam2020-oss/ImageProcessingWithMATLAB.git
+```
+
+### 3. Open the Project
+
+Navigate to the downloaded repository folder.
+
+```bash
+cd ImageProcessingWithMATLAB
+```
+
+### 4. Launch MATLAB
+
+Open MATLAB and set the repository directory as your current working folder.
+
+### 5. Select a MATLAB Program
+
+For example:
+
+```matlab
+HarrisDetector.m
+```
+
+Or:
+
+```matlab
+EdgeDetectionCanny.m
+```
+
+### 6. Execute the Program
+
+Open the desired `.m` file and click **Run** in MATLAB.
+
+Alternatively, execute a script from the MATLAB Command Window:
+
+```matlab
+run('HarrisDetector.m')
+```
+
+**Important:** Some programs require input images or additional MATLAB toolboxes. Ensure the required files are available in the working directory before execution.
 
 ---
-<p align="center">
 
-### 🧠 From Facial Images → Deep Learning → Emotion Intelligence
+# 🎯 LEARNING OBJECTIVES
 
-**Built with Python, TensorFlow & Computer Vision**
+This repository is designed to strengthen practical understanding of:
 
-</p>
+- Digital image representation.
+- Image enhancement and restoration.
+- Histogram processing.
+- Image filtering techniques.
+- Edge detection algorithms.
+- Image segmentation methods.
+- Mathematical morphology.
+- Frequency domain processing.
+- Image compression techniques.
+- Feature detection and extraction.
+- Fundamental computer vision concepts.
+- MATLAB programming for image analysis.
 
 ---
-# ⭐ Support
 
-*If you find this repository useful for learning Machine Learning, consider giving it a ⭐.*
+# 🔮 FUTURE IMPROVEMENTS
 
-*Your feedback, suggestions, and contributions are welcome.*
+Potential improvements for this repository include:
+
+- 📸 Adding before-and-after image comparisons.
+- 📊 Adding more visualization examples.
+- 📝 Improving MATLAB code documentation.
+- 📂 Organizing programs into categorized folders.
+- 🧪 Comparing different image-processing algorithms.
+- 🖥️ Developing interactive MATLAB applications.
+- 🤖 Integrating machine learning techniques.
+- 🧠 Exploring deep learning-based image processing.
 
 ---
-**`Digital-Image-Processing-MATLAB`**
 
-And using this short description under the repository name:
+# 🤝 CONTRIBUTIONS
 
-> **A collection of MATLAB implementations covering fundamental Digital Image Processing techniques, including image enhancement, segmentation, filtering, edge detection, morphology, compression, feature extraction, and frequency domain processing.**
+Suggestions, improvements, and contributions are welcome.
+
+If you would like to contribute:
+
+1. Fork this repository.
+2. Create a new branch.
+3. Implement your improvements.
+4. Test your MATLAB code.
+5. Submit a Pull Request.
+
+---
+
+# 📜 LICENSE & USAGE
+
+This repository is primarily intended for academic learning, experimentation, and educational purposes.
+
+No explicit open-source license is currently specified. Please contact the repository owner for permission before redistributing or reusing the code.
+
+---
+
+# 👨‍💻 ABOUT THE DEVELOPER
+
+<div align="center">
+
+## Shahid Azam
+
+**MS Computer Science | Artificial Intelligence**
+
+Institute of Management Sciences, Peshawar, Pakistan
+
+Interested in Artificial Intelligence, Machine Learning, Computer Vision, MATLAB Programming, and Research.
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/shahidazam2020-oss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shahid-azam-mughal-787b58235)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Shahid-Azam-5)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0001-6825-8863)
+
+📧 **Email:** shahidazam2020@gmail.com
+
+</div>
+
+---
+
+<div align="center">
+
+# ⭐ SUPPORT THIS PROJECT
+
+If you find this repository useful for learning Digital Image Processing:
+
+⭐ Star the repository.
+
+🍴 Fork it for experimentation.
+
+💬 Share your feedback.
+
+🤝 Contribute improvements.
+
+<br>
+
+### 🧠 Learn • Experiment • Process • Innovate
+
+**Exploring Digital Images Through MATLAB and Computer Vision.**
+
+<br>
+
+Developed with ❤️ by **Shahid Azam**
+
+[⬆ Back to Top](#-digital-image-processing-with-matlab)
+
+</div>
