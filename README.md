@@ -102,7 +102,7 @@ Welcome to my **Digital Image Processing with MATLAB** repository.
 
 ## 02. 🔍 Edge Detection
 
-Implementations of different edge detection algorithms for identifying boundaries and structural information.
+**Implementations of different edge detection algorithms for identifying boundaries and structural information.**
 
 | MATLAB File | Description |
 |:---|:---|
