@@ -37,7 +37,7 @@ Welcome to my **Digital Image Processing with MATLAB** repository.
 
 **This repository is a collection of practical MATLAB implementations developed to explore fundamental and advanced concepts of Digital Image Processing.**
 
-It demonstrates how digital images can be enhanced, filtered, transformed, segmented, compressed, restored, and analyzed using mathematical operations and image-processing algorithms.
+**It demonstrates how digital images can be enhanced, filtered, transformed, segmented, compressed, restored, and analyzed using mathematical operations and image-processing algorithms.**
 
 The repository combines academic coursework, programming practice, and experimental implementations to strengthen practical understanding of image processing and computer vision.
 
