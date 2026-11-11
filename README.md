@@ -357,7 +357,7 @@ cd ImageProcessingWithMATLAB
 
 ### 4. Launch MATLAB
 
-Open MATLAB and set the repository directory as your current working folder.
+**Open MATLAB and set the repository directory as your current working folder.**
 
 ### 5. Select a MATLAB Program
 
