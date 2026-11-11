@@ -349,7 +349,7 @@ git clone https://github.com/shahidazam2020-oss/ImageProcessingWithMATLAB.git
 
 ### 3. Open the Project
 
-Navigate to the downloaded repository folder.
+**Navigate to the downloaded repository folder.**
 
 ```bash
 cd ImageProcessingWithMATLAB
