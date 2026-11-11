@@ -297,7 +297,7 @@ assets/
     └── feature-detection.png
 ```
 
-Once uploaded, these images can be embedded directly into this README.
+**Once uploaded, these images can be embedded directly into this README.**
 
 ---
 
