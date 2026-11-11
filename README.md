@@ -221,7 +221,7 @@ Computer vision implementations for identifying objects and important image stru
 
 ## 10. 📐 Image Transformation & Manipulation
 
-Operations for changing image dimensions, orientation, and representation.
+**Operations for changing image dimensions, orientation, and representation.**
 
 | MATLAB File | Description |
 |:---|:---|
