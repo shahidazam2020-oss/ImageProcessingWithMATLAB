@@ -425,7 +425,7 @@ run('HarrisDetector.m')
 
 **Suggestions, improvements, and contributions are welcome.**
 
-If you would like to contribute:
+**If you would like to contribute:**
 
 1. Fork this repository.
 2. Create a new branch.
