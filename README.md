@@ -209,7 +209,7 @@ Welcome to my **Digital Image Processing with MATLAB** repository.
 
 ## 09. 🤖 Object Detection
 
-Computer vision implementations for identifying objects and important image structures.
+**Computer vision implementations for identifying objects and important image structures.**
 
 | MATLAB File | Description |
 |:---|:---|
