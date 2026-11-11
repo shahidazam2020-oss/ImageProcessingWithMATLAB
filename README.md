@@ -241,7 +241,7 @@ Welcome to my **Digital Image Processing with MATLAB** repository.
 
 # 🧠 IMAGE PROCESSING CONCEPTS
 
-The repository covers several fundamental concepts of Digital Image Processing.
+**The repository covers several fundamental concepts of Digital Image Processing.**
 
 | Concept | Description |
 |:---|:---|
