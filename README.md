@@ -139,7 +139,7 @@ Welcome to my **Digital Image Processing with MATLAB** repository.
 
 ## 04. 🧹 Image Filtering & Restoration
 
-Practical implementations of spatial filtering and image restoration techniques.
+**Practical implementations of spatial filtering and image restoration techniques.**
 
 | MATLAB File | Description |
 |:---|:---|
