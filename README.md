@@ -153,7 +153,7 @@ Welcome to my **Digital Image Processing with MATLAB** repository.
 
 ## 05. 🧬 Morphological Image Processing
 
-Mathematical morphology techniques for analyzing and modifying image structures.
+**Mathematical morphology techniques for analyzing and modifying image structures.**
 
 | MATLAB File | Description |
 |:---|:---|
