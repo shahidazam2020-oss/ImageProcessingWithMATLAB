@@ -118,7 +118,7 @@ Welcome to my **Digital Image Processing with MATLAB** repository.
 
 ## 03. 🎨 Image Segmentation & Thresholding
 
-Techniques for separating objects, regions, and meaningful structures from images.
+**Techniques for separating objects, regions, and meaningful structures from images.**
 
 | MATLAB File | Description |
 |:---|:---|
