@@ -335,7 +335,7 @@ assets/
 
 ### 1. Prerequisites
 
-Make sure you have:
+**Make sure you have:**
 
 - MATLAB installed.
 - MATLAB Image Processing Toolbox for programs that use its functions.
