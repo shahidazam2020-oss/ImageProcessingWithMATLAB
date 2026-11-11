@@ -331,7 +331,7 @@ assets/
 
 # 🚀 GETTING STARTED
 
-Follow these steps to run the MATLAB programs.
+**Follow these steps to run the MATLAB programs.**
 
 ### 1. Prerequisites
 
