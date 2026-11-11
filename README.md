@@ -197,7 +197,7 @@ Welcome to my **Digital Image Processing with MATLAB** repository.
 
 ## 08. ✨ Feature Detection & Extraction
 
-Identifying important points, structures, and features within digital images.
+**Identifying important points, structures, and features within digital images.**
 
 | MATLAB File | Description |
 |:---|:---|
