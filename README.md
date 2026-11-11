@@ -280,7 +280,7 @@ Welcome to my **Digital Image Processing with MATLAB** repository.
 
 ### 🗂️ Suggested Visual Gallery
 
-For a more visual GitHub experience, add an `assets/screenshots/` folder and upload actual MATLAB output screenshots.
+**For a more visual GitHub experience, add an `assets/screenshots/` folder and upload actual MATLAB output screenshots.**
 
 Suggested filenames:
 
