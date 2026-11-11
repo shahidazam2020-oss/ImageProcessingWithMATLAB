@@ -408,7 +408,7 @@ run('HarrisDetector.m')
 
 # 🔮 FUTURE IMPROVEMENTS
 
-Potential improvements for this repository include:
+**Potential improvements for this repository include:**
 
 - 📸 Adding before-and-after image comparisons.
 - 📊 Adding more visualization examples.
