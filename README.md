@@ -83,7 +83,7 @@ Welcome to my **Digital Image Processing with MATLAB** repository.
 
 ## 01. 🖼️ Image Enhancement
 
-Techniques for improving image brightness, contrast, and visual quality.
+**Techniques for improving image brightness, contrast, and visual quality.**
 
 | MATLAB File | Description |
 |:---|:---|
