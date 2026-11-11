@@ -389,7 +389,7 @@ run('HarrisDetector.m')
 
 # 🎯 LEARNING OBJECTIVES
 
-This repository is designed to strengthen practical understanding of:
+**This repository is designed to strengthen practical understanding of:**
 
 - Digital image representation.
 - Image enhancement and restoration.
