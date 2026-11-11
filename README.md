@@ -168,7 +168,7 @@ Mathematical morphology techniques for analyzing and modifying image structures.
 
 ## 06. 🌐 Frequency Domain Processing
 
-Exploring image transformations and filtering in the frequency domain.
+**Exploring image transformations and filtering in the frequency domain.**
 
 | MATLAB File | Description |
 |:---|:---|
