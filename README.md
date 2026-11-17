@@ -1,5 +1,16 @@
 <div align="center">
 
+  <a href="https://github.com/shahidazam2020-oss/ImageProcessingWithMATLAB/stargazers">
+    <img src="https://img.shields.io/github/stars/shahidazam2020-oss/ImageProcessingWithMATLAB?style=social&cacheSeconds=60" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/shahidazam2020-oss/ImageProcessingWithMATLAB/forks">
+    <img src="https://img.shields.io/github/forks/shahidazam2020-oss/ImageProcessingWithMATLAB?style=social&cacheSeconds=60" alt="GitHub Forks">
+  </a>
+  <a href="https://github.com/shahidazam2020-oss/ImageProcessingWithMATLAB/commits">
+    <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/ImageProcessingWithMATLAB?style=flat-square" alt="Last Commit">
+  </a>
+
+---
 # 🖼️ DIGITAL IMAGE PROCESSING WITH MATLAB
 
 ### Exploring Images Through Algorithms, Mathematics & Computer Vision
