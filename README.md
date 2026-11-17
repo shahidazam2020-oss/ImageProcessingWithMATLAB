@@ -19,11 +19,6 @@
 
 <br>
 
-[![MATLAB](https://img.shields.io/badge/MATLAB-Programming-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
-[![Image Processing](https://img.shields.io/badge/Image-Processing-2E8B57?style=for-the-badge)](https://www.mathworks.com/products/image.html)
-[![Computer Vision](https://img.shields.io/badge/Computer-Vision-6A5ACD?style=for-the-badge)](https://www.mathworks.com/products/computer-vision.html)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/shahidazam2020-oss/ImageProcessingWithMATLAB)
-
 <br>
 
 [📂 Explore Code](#-project-dashboard) &nbsp; • &nbsp;
